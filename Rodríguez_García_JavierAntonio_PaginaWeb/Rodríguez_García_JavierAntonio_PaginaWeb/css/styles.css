@@ -1,0 +1,166 @@
+#titulo{
+background-color: #000000;
+color: white;
+text-align: center;
+font-family: "encabezado", sans-serif;
+font-size: 45px;
+border: 15px solid black;
+}
+#titulo1{
+    background-color: #000000;
+    color: white;
+    display: flex;
+    font-family: "encabezado", sans-serif;
+    font-size: 45px;
+    border: 10px solid black;
+    }
+body {
+margin: 0;
+  padding: 0;
+  } 
+  
+ #pagina{
+   font-family: "texto", sans-serif ;
+}
+@font-face {
+    font-family: "title";
+    src: url("fuentes/impact.ttf");
+}
+@font-face {
+    font-family: "texto";
+    src: url("fuentes/ELEGANT\ TYPEWRITER\ Regular.ttf");
+}
+@font-face {
+    font-family: "encabezado";
+    src: url("fuentes/LoftygoalsRegular.otf");
+}
+#fd{
+    transition: transform 0.3s ease;
+    background: none;
+    border: none;
+    border-top: 200px solid white;
+   border-bottom: 100px solid white;
+   border-left: 50px solid white;
+   border-right: 50px solid white;
+}
+#fd :hover{
+    transform: scale(1.1);
+}
+#fi{
+    transition: transform 0.3s ease;
+    background: none;
+    border: none;
+   border-bottom: 100px solid white;
+   border-left: 50px solid white;
+   border-right: 50px solid white;
+}
+#fi :hover{
+    transform: scale(1.1);
+}
+#imagenopciones{
+    width: 700px;
+    height: auto;
+}
+#presentacion{
+    text-align: center;
+     font-size: x-large; 
+     border: 50px solid white;
+     border-left: 470px solid white;
+     border-right: 470px solid white;
+}
+footer{
+    border: 40px solid#0000004d;
+    border-left: 100px solid#000000;
+    background-color: #000000;
+}
+#regresar{
+    transition: transform 0.3s ease;
+    background: none;
+    border: none;
+}
+#regresar :hover{
+    transform: scale(1.1);
+}
+#t1{
+    border-left: 50px solid#000000;
+}
+#whats{
+    width: 100px;
+    border-right: 80px solid #000000 ;
+}
+
+#iconos{
+    display: flex;
+}
+.icons{
+    width: 40px;
+    border-right: 80px solid #000000;
+}
+#cont{
+    color:white;
+}
+#git{
+    width: 80px;
+    border-right: 80px solid #000000 ;
+}
+h2{
+    font-family: "title", sans-serif;
+    text-align: center;
+}
+#vin{
+    width: 200px;
+    height: auto;
+}
+#parraf{
+    display: flex;
+    border: 50px solid white;
+     border-left: 400px solid white;
+     border-right: 400px solid white;
+}
+#pf{
+border-top: 100px solid white;
+border-left: 40px solid white;
+border-right: 40px solid white;
+}
+
+#pt{
+    text-align: center;
+    border: 50px solid white;
+    border-left: 400px solid white;
+    border-right: 400px solid white;
+}
+
+#ph{
+    border-top: 75px solid white;
+    border-left: 40px solid white;
+    border-right: 40px solid white;
+}
+#vinh{
+    width: 400px;
+    height: auto;
+}
+
+#im{
+    text-align: center;
+    width: 600px;
+    height: auto;
+}
+#direct{
+    display: flex;
+    font-size: x-large; 
+    border-left: 200px solid white;
+    border-right: 200px solid white;
+    border-bottom: 40px solid white;
+}
+#escola{
+    text-align: center;
+    font-size: x-large; 
+    border-left: 470px solid white;
+    border-right: 470px solid white;
+}
+#music{
+    display: flex;
+    border: 50px solid white;
+    border-left: 200px solid white;
+    border-right: 200px solid white;
+}
